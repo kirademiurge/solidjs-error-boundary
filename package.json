@@ -1,0 +1,22 @@
+{
+  "name": "solidjs-template-example",
+  "author": "@kirademiurge",
+  "description": "",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5",
+    "vite": "^4.1.1",
+    "vite-plugin-solid": "^2.5.0"
+  },
+  "dependencies": {
+    "solid-js": "^1.6.10",
+    "vite-tsconfig-paths": "^4.2.0"
+  }
+}
