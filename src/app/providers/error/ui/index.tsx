@@ -1,4 +1,4 @@
-import { JSX, createEffect } from "solid-js";
+import { JSX } from "solid-js";
 import { errorStore } from "../model";
 
 export interface ErrorProviderProps {
